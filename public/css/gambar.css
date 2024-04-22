@@ -1,0 +1,55 @@
+@media (min-width: 1400px) {
+.gambar-dsb {
+		width: 150px;
+        height: 120px;
+        background-position: center center;
+        background-repeat: no-repeat;
+        object-fit: cover;
+}
+}
+
+
+@media (min-width: 1200px) {
+.gambar-dsb {
+		width: 150px;
+        height: 120px;
+        background-position: center center;
+        background-repeat: no-repeat;
+        object-fit: cover;
+}
+}
+
+
+@media (min-width: 992px) {
+.gambar-dsb {
+		width: 100%;
+        height: 240px;
+        background-position: center center;
+        background-repeat: no-repeat;
+        object-fit: cover;
+}
+}
+
+
+@media (max-width: 991.98px) {
+.gambar-dsb {
+		width: 100%;
+        height: 150px;
+        background-position: center center;
+        background-repeat: no-repeat;
+        object-fit: cover;
+}
+}
+
+@media (max-width: 767.98px) {
+}
+
+@media (max-width: 575.98px) {
+.gambar-dsb {
+		width: 100%;
+        height: 240px;
+        background-position: center center;
+        background-repeat: no-repeat;
+        object-fit: cover;
+}
+}

@@ -1,0 +1,202 @@
+@media (min-width: 1400px) {
+a {
+    text-decoration: none;
+}
+
+.h1, h1 {
+    font-size: 24px;
+}
+
+.h2, h2 {
+    font-size: 22px;
+}
+
+.h3, h3 {
+    font-size: 20px;
+}
+
+.h4, h4 {
+    font-size: 18px;
+}
+
+.h5, h5 {
+    font-size: 16px;
+}
+}
+
+
+@media (min-width: 1200px) {
+a {
+    text-decoration: none;
+}
+
+.h1, h1 {
+    font-size: 24px;
+}
+
+.h2, h2 {
+    font-size: 22px;
+}
+
+.h3, h3 {
+    font-size: 20px;
+}
+
+.h4, h4 {
+    font-size: 18px;
+}
+
+.h5, h5 {
+    font-size: 16px;
+}
+}
+
+
+@media (min-width: 992px) {
+a {
+    text-decoration: none;
+}
+
+.h1, h1 {
+    font-size: 20px !important;
+}
+
+.h2, h2 {
+    font-size: 18px !important;
+}
+
+.h3, h3 {
+    font-size: 18px !important;
+}
+
+.h4, h4 {
+    font-size: 18px;
+}
+
+.h5, h5 {
+    font-size: 16px;
+}
+
+.p, p {
+    font-size: 20px;
+}
+
+.text-center {
+    font-size: 16px;
+}
+
+.small, small {
+    font-size: 12px;
+}
+}
+
+
+@media (max-width: 991.98px) {
+a {
+    text-decoration: none;
+}
+
+.h1, h1 {
+    font-size: 20px !important;
+}
+
+.h2, h2 {
+    font-size: 18px !important;
+}
+
+.h3, h3 {
+    font-size: 18px !important;
+}
+
+.h5, h5 {
+    font-size: 16px;
+}
+
+.p, p {
+    font-size: 20px;
+}
+
+.text-center {
+    font-size: 16px;
+}
+
+.small, small {
+    font-size: 12px;
+}
+}
+
+@media (max-width: 767.98px) {
+a {
+    text-decoration: none;
+}
+
+.h1, h1 {
+    font-size: 20px !important;
+}
+
+.h2, h2 {
+    font-size: 18px !important;
+}
+
+.h3, h3 {
+    font-size: 18px !important;
+}
+
+.h4, h4 {
+    font-size: 18px;
+}
+
+.h5, h5 {
+    font-size: 16px;
+}
+
+.p, p {
+    font-size: 20px;
+}
+
+.text-center {
+    font-size: 16px;
+}
+
+.small, small {
+    font-size: 12px;
+}
+}
+
+@media (max-width: 575.98px) {
+a {
+    text-decoration: none;
+}
+
+.h1, h1 {
+    font-size: 20px !important;
+}
+
+.h2, h2 {
+    font-size: 18px !important;
+}
+
+.h3, h3 {
+    font-size: 18px !important;
+}
+
+.h4, h4 {
+    font-size: 18px;
+}
+
+.h5, h5 {
+    font-size: 16px;
+}
+
+.p, p {
+    font-size: 18px;
+}
+
+.text-center {
+    font-size: 16px;
+}
+
+.small, small {
+    font-size: 12px;
+}
+}
