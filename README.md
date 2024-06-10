@@ -11,5 +11,7 @@ Sistem Informasi Berita Inseleb adalah platform yang dibangun untuk menyajikan i
 - Gabung Penulis: Pengguna dapat membuat akun sebagai penulis dan mengirimkan artikel yang mereka miliki.
 
 ### Design Sistem
-![Contoh Sistem Informasi Berita](gambar/7.png)
 ![Contoh Sistem Informasi Berita](gambar/8.png)
+
+
+![Contoh Sistem Informasi Berita](gambar/7.png)
